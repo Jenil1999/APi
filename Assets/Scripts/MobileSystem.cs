@@ -11,6 +11,7 @@ public class MobileSystem : MonoBehaviour
     public Transform NList;
     public Transform NewsApp;
     
+    
 
     private void Start()
     {
